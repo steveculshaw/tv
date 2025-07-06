@@ -3,26 +3,26 @@
 
 ## Watching
 
-Paradise, Plex ... 7.9 ... secret service investigate former president murder
-Power of Parker, BBC ... 6.8 ... Martin Parker - an ambitious self-made impresario who appears to have it all - attempts to juggle his debts, his wife and his mistress
-Queens of Mystery, Acorn ... 7.3 ... detective and her three aunts, 3 seasons
-Such Brave Girls, BBC ... 7.3 ... dysfunctional comedy family sitcom that follows sisters Josie and BIllie and their single mum Deb as they navigate life
-The Gilded Age, Plex ... 8.1 ... conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society
-The Survivors, Netflix ... 6.6 ... fifteen years ago, a storm devastated the coastal town of Evelyn Bay
-The Waterfront, Netflix ... 7.0 ... their storied North Carolina fishing empire decays, the damaged Buckley's grapple
-
-Death Valley, BBC ... 6.3 ... Timothy Spall
-Last Week with John Oliver, Plex ... 8.8
-Resident Alien, Plex ... 8.1
-Slow Horses, Plex ... 8.3
-Star Trek: Strange New Worlds, Plex ... 8.3
-30 Rock, Plex ... 8.3
-Doctor Who (1963-1989), BBC ... 8.4
-Lioness, Plex ... 7.8
-Murder Most Puzzling, C5 ... 7.0
-The Librarians: The Next Chapter, Plex ... 7.1
-Matlock, Plex ... 7.7
-
+030 Paradise, Plex ... 7.9 ... secret service investigate former president murder
+030 Power of Parker, BBC ... 6.8 ... Martin Parker - an ambitious self-made impresario who appears to have it all - attempts to juggle his debts, his wife and his mistress
+030 Queens of Mystery, Acorn ... 7.3 ... detective and her three aunts, 3 seasons
+030 Such Brave Girls, BBC ... 7.3 ... dysfunctional comedy family sitcom that follows sisters Josie and BIllie and their single mum Deb as they navigate life
+030 The Gilded Age, Plex ... 8.1 ... conflicts surrounding the new money Russell family and their old money neighbors, the van Rhijn family, in 1880s New York City high society
+030 The Survivors, Netflix ... 6.6 ... fifteen years ago, a storm devastated the coastal town of Evelyn Bay
+030 The Waterfront, Netflix ... 7.0 ... their storied North Carolina fishing empire decays, the damaged Buckley's grapple
+089
+090 Death Valley, BBC ... 6.3 ... Timothy Spall
+090 Last Week with John Oliver, Plex ... 8.8
+090 Resident Alien, Plex ... 8.1
+090 Slow Horses, Plex ... 8.3
+090 Star Trek: Strange New Worlds, Plex ... 8.3
+092 30 Rock, Plex ... 8.3
+092 Doctor Who (1963-1989), BBC ... 8.4
+092 Lioness, Plex ... 7.8
+092 Murder Most Puzzling, C5 ... 7.0
+092 The Librarians: The Next Chapter, Plex ... 7.1
+098 Matlock, Plex ... 7.7
+099
 
 ## Potential
 
